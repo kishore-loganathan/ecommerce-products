@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@apollo/client": "^3.13.8",
+    "@tailwindcss/vite": "^4.1.11",
+    "graphql": "^16.11.0",
+    "tailwindcss": "^4.1.11"
+  }
+}
